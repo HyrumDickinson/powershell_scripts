@@ -12,4 +12,5 @@ Set-Location ..
 Set-Location TicTacToe_AI
 git pull
 git push 
-exit
+Set-Location ..
+Set-Location powershell_scripts
