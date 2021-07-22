@@ -11,3 +11,5 @@ conda install matplotlib
 conda deactivate
 conda create --name python3_tictactoe
 conda create --name python3_connectfour
+
+Set-Location powershell_scripts
