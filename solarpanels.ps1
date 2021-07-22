@@ -1,6 +1,6 @@
 Set-Location ..
 Set-Location Solar_Panel_Protection_System
-conda activate python2
+conda activate python2_solarpanels
 git pull
 git push
 Set-Location ..
