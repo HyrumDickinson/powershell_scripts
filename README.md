@@ -14,7 +14,7 @@ Each of my projects contains a `return.ps1` file that exits the project, saves e
 
 *`setup.ps1` will only set up the code for me. Other users such as yourself can enjoy the austure simplicity of PowerShell code, but won't be able to successfully execute it. Why?
 I have other hidden files that contain logins such as my GitHub SSH token - which you don't get access to. Sorry! You can still copy what I'm doing, though (sort of). Just fork
-my repos, and replace my URLs in `setup.ps1` with the URLs of your forks. You'll be up and running and ready to contribute in no time!
+my repos, and replace my URLs in `setup.ps1` with the URLs of your forks. You'll be up and running and ready to contribute in no time!*
 
 
 
