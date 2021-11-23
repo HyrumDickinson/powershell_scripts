@@ -1,5 +1,7 @@
 # powershell_scripts
 
+NOTE: this repo is no longer updated, because I've switched to using the UNIX-based macOS operating system. Navigate to my unix_scripts to see my current maintained scripts with the most functionality.
+
 PowerShell scripting allows me to easily navigate my code base, synchronize it with the cloud, and redeploy it to a new Windows 10 or 11 computer.
 
 `setup.ps1` sets up a local copy of my codebase on a new Windows 10 or 11 pc, provided the pc has PowerShell, Git, & Anaconda install and maintains an internet connection. None of my other powershell commands with work until setup.ps1 has successfully ran (see disclaimer at bottom of README).
